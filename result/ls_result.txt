@@ -1,0 +1,4 @@
+總用量 672
+-rw-rw-r-- 1 yocat yocat      0 Sep 19 07:24 ls_result.txt
+-rw------- 1 yocat yocat 682402 Sep 19 06:33 pride_and_prejudice.txt
+drwxrwxr-x 2 yocat yocat   4096 Sep 19 06:33 tar
